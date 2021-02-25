@@ -1,2 +1,2 @@
 ﻿msgbox parameter("MyActionParam")
-print "print:Hello World" 
+print parameter("ActionParam2")
